@@ -1,4 +1,4 @@
-package Lesson_3;
+package lesson_3;
 
 public class Task_5 {
     public static int[] initialValue (int len, int initialValue) {
